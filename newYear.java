@@ -1,6 +1,6 @@
 // PROGRAMMING LANGUAGE USED: JAVA
 
-/* Student Name: Baris Kaplan & İsmail Ozan Kayacan
+/* Contributors: Baris & İsmail 
  * The program allows the user to create tree(s), ornament(s), 
  * present(s) with different size and color to canvas 
  * by clicking the mouse. 
